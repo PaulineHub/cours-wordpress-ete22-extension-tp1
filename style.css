@@ -33,7 +33,7 @@
 }
 
 .carrousel_figure__img--activer {
-  opacity: 1;
+  /* opacity: 1; */
   width: 100%;
 }
 
@@ -57,7 +57,7 @@
 
 .carrousel__fermeture {
   background-color: #602400;
-  border: #602400 1px solid;
+  border: #602400 2px solid;
   border-radius: 5px;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
