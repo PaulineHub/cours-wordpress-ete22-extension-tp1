@@ -51,8 +51,10 @@
 }
 
 .carrousel_ouvrir {
-    opacity: 1;
-    transform: scale(1)
+    /* opacity: 1;
+    transform: scale(1) */
+    width: 100%;
+    transition: width 1s;
 }
 
 .carrousel__fermeture {
