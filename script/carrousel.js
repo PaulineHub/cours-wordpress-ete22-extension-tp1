@@ -9,7 +9,6 @@
     let elmCarrousel__fermeture = document.querySelector('.carrousel__fermeture');
     let elmCarrousel__radio = document.querySelector('.carrousel__radio');
     //console.log(elmGalerieImg[0].getAttribute('src'))
-    let a = 0;
     let index = 0;
     let ancien_index = -1;
     let compteur = 0;
