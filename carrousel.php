@@ -4,7 +4,7 @@
  * Plugin URI: http://wordpress.org/plugins/carrousel/
  * Description: 
  * Author: Pauline Huby
- * Author URI: http://github.com/paulinehub/cours-wordpress-ete22-extension-carrousel
+ * Author URI: https://paulinehub.github.io/cours-wordpress-ete22-extension-tp1/tree/tp1
  */
 
 function carrousel_31w_enqueue()
@@ -30,4 +30,4 @@ function genere_carrousel()
    return $contenu;
 }
 
-add_shortcode('carrousel', 'genere_carrousel');
+add_shortcode('carrouseltp1', 'genere_carrousel');
